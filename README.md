@@ -5,7 +5,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+<br/>
 
+Hit in your console or terminal to connect with me.
+ ```bash
+npx hsandovalmoreno
+```
 <br/>
 
 <h3 align=”center”> :chart_with_upwards_trend: Stats</h3>
